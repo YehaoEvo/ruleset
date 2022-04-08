@@ -6,3 +6,12 @@ DOMAIN,star.api.edge.bamgrid.com
 DOMAIN,star.connections.edge.bamgrid.com
 DOMAIN,star.content.edge.bamgrid.com
 DOMAIN,star.playback.edge.bamgrid.com
+DOMAIN-SUFFIX,espn.co.uk
+DOMAIN-SUFFIX,espn.com
+DOMAIN-SUFFIX,espn.hb.omtrdc.net
+DOMAIN-SUFFIX,espn.net
+DOMAIN-SUFFIX,espncdn.com
+DOMAIN-SUFFIX,espndotcom.tt.omtrdc.net
+DOMAIN-SUFFIX,espnqa.com
+DOMAIN-SUFFIX,star-brasil.com
+DOMAIN-SUFFIX,star-latam.com
